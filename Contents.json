@@ -4,14 +4,14 @@
 	],
 	"Visors" : [
 		{
-			"Climb" : {
-				"Hash" : "09a005b9be43c0b4031ed84bb56d0892",
-				"Address" : "C3Re1WXAc_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "cf0852ae7bdb91ef3b9bc39c336fc78b",
 				"Address" : "C3Re1WXAc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "09a005b9be43c0b4031ed84bb56d0892",
+				"Address" : "C3Re1WXAc_Climb.png",
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
@@ -19,6 +19,82 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "Yarlowmando",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
+				"Address" : "KkCVmn0E_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
+				"Address" : "KkCVmn0E_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
+				"Address" : "KkCVmn0E_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "怒りまゆげ",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d6c4cf54773525753fba25132e18cd55",
+				"Address" : "TO2o5l_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a8da13f78f4a43dfc7473152381371f0",
+				"Address" : "TO2o5l_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "a8da13f78f4a43dfc7473152381371f0",
+				"Address" : "TO2o5l_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "kuri",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5fcad9ab46bfa18cba76769f0617b9d9",
+				"Address" : "avR1nVXs_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "80627f758cf79be8fb664b6314f10195",
+				"Address" : "avR1nVXs_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "ガラスまつげ",
 			"Author" : "シート",
 			"Package" : "TriffleSkin",
 			"IsUnlockable" : False,
