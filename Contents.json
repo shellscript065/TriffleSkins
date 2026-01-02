@@ -1,6 +1,61 @@
 {
 	"BundleName" : null,
 	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
+				"Address" : "KkCVmn0E_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
+				"Address" : "KkCVmn0E_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "f1afef0e9fe739e887577cd304f1d9f3",
+				"Address" : "KkCVmn0E_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "怒りまゆげ",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "759ba346eceab0984862ab06aaf8be72",
+				"Address" : "KVR7_Main.png",
+				"ExIsFront" : False,
+				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
+			},
+			"Climb" : {
+				"Hash" : "effd87848c67920ff82def0ed2809c13",
+				"Address" : "KVR7_Climb.png",
+				"ExIsFront" : False,
+				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Ash",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
 	],
 	"Visors" : [
 		{
