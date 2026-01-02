@@ -59,6 +59,7 @@
 	],
 	"Visors" : [
 		{
+			"BehindHat" : True,
 			"Main" : {
 				"Hash" : "cf0852ae7bdb91ef3b9bc39c336fc78b",
 				"Address" : "C3Re1WXAc_Main.png",
@@ -70,7 +71,6 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
 			"BackmostBack" : True,
 			"Fixed" : False,
 			"Name" : "Yarlowmando",
@@ -81,6 +81,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"BehindHat" : True,
 			"Main" : {
 				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
 				"Address" : "KkCVmn0E_Main.png",
@@ -97,7 +98,6 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
 			"BackmostBack" : True,
 			"Fixed" : False,
 			"Name" : "怒りまゆげ",
@@ -108,6 +108,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"BehindHat" : True,
 			"Main" : {
 				"Hash" : "d6c4cf54773525753fba25132e18cd55",
 				"Address" : "TO2o5l_Main.png",
@@ -124,7 +125,6 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : True,
 			"BackmostBack" : True,
 			"Fixed" : False,
 			"Name" : "kuri",
@@ -135,6 +135,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"BehindHat" : True,
 			"Main" : {
 				"Hash" : "5fcad9ab46bfa18cba76769f0617b9d9",
 				"Address" : "avR1nVXs_Main.png",
@@ -146,7 +147,6 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : True,
 			"BackmostBack" : True,
 			"Fixed" : False,
 			"Name" : "ガラスまつげ",
@@ -157,6 +157,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"BehindHat" : True,
 			"Main" : {
 				"Hash" : "759ba346eceab0984862ab06aaf8be72",
 				"Address" : "KVR7_Main.png",
@@ -168,7 +169,6 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : True,
-			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "Ash",
