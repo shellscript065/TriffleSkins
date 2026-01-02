@@ -1,10 +1,42 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+	],
+	"Visors" : [
+		{
+			"Climb" : {
+				"Hash" : "09a005b9be43c0b4031ed84bb56d0892",
+				"Address" : "C3Re1WXAc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "cf0852ae7bdb91ef3b9bc39c336fc78b",
+				"Address" : "C3Re1WXAc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "Yarlowmando",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "TriffleSkin",
+			"Format" : "TriffleSkin",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
