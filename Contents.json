@@ -2,7 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Bounce" : False,
 			"Main" : {
 				"Hash" : "d13d91ee72e1f042241053601e4bfbd7",
 				"Address" : "KkCVmn0E_Main.png",
@@ -18,6 +17,7 @@
 				"Address" : "KkCVmn0E_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
@@ -31,7 +31,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Bounce" : False,
 			"Main" : {
 				"Hash" : "759ba346eceab0984862ab06aaf8be72",
 				"Address" : "KVR7_Main.png",
@@ -44,6 +43,7 @@
 				"ExIsFront" : False,
 				"MaskHash" : "79ca62e82c4253db5ddcb588ca543479"
 			},
+			"Bounce" : False,
 			"Adaptive" : True,
 			"HideHands" : True,
 			"IsSkinny" : False,
@@ -57,10 +57,9 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Bounce" : True,
 			"Main" : {
-				"Hash" : "5b0e9fea9488ef631504cb8e5352ecad",
-				"Address" : "yzJ8ECUr_Main.png",
+				"Hash" : "0ae396c3b154939a79dad213f9214694",
+				"Address" : "GxoeIbTf_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
@@ -68,12 +67,109 @@
 				"Address" : "yzJ8ECUr_Climb.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
 			"Adaptive" : True,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"LongNeckCostume" : True,
 			"Name" : "Alien_guy",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "66914c90361b91e1b196325d06704abe",
+				"Address" : "lbiPkDlrc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "00ac10067116d8d01c2de87df1b6d87c",
+				"Address" : "lbiPkDlrc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "トイレットペーパー",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2147a64ade8a242da8bc62bea2db291b",
+				"Address" : "mYYUWrd2_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ba53af19414c29d6ccee7da053d55b84",
+				"Address" : "mYYUWrd2_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "レッドサッサス",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9981b9afadd408cceb90eb6d14a1e86d",
+				"Address" : "OYUgD8Wr_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7b562c920f42d739012bc0474e4cbac4",
+				"Address" : "OYUgD8Wr_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "カウボーイ",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d5798b691f00a20af47b73e481e7058d",
+				"Address" : "R5c6_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "52639bb7cb1f3e059c30499dde6ea13a",
+				"Address" : "R5c6_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "王冠",
 			"Author" : "シート",
 			"Package" : "TriffleSkin",
 			"IsUnlockable" : False,
@@ -196,6 +292,106 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "Ash",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "aa0febc5d2367339f5371fcbcdc4a63a",
+				"Address" : "F8T1sq5q_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "にっこり口",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "890905b41dad4fcf06ccf3756108103c",
+				"Address" : "eSzjpj_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "724b02dec0d5f731a35ac8368bb22e16",
+				"Address" : "eSzjpj_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "SHIT",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f9d866ad88bb1af3d6ab3a049e1f7cc1",
+				"Address" : "dg5BLzw2_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c75edb59d964a9232ed847182e21ffc3",
+				"Address" : "dg5BLzw2_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "銀のグレイ",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5ce47e25f4c5aefc0cbd9a504ce747bb",
+				"Address" : "pfP5_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2e720cebcfcc98931c00979371f47059",
+				"Address" : "pfP5_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "狙う",
+			"Author" : "シート",
+			"Package" : "TriffleSkin",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ecc0b1bd82e07b69143a625206cf7834",
+				"Address" : "aNjL3kmq_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "蝶ネクタイ",
 			"Author" : "シート",
 			"Package" : "TriffleSkin",
 			"IsUnlockable" : False,
